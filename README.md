@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Frank</h1>
+<h1 align="center">Hi 👋, I'm Frank Tuberquia</h1>
 <h3 align="center">Full Stack Developer from Colombia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ftuberquia" alt="ftuberquia" /></a> </p>
