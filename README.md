@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://fatubesolutions.netlify.app/](https://fatubesolutions.netlify.app/)
 
-- 💬 Ask me about **React, Redux, Express, Node, Html, Css, Sql, Wordpress, Shopify, Bootstrap, SEO-SEM, UI-UX, Facebook ADS, Tailwind, Vite **
+- 💬 Ask me about **React, Redux, React.Native, Express, Node, Html, Css, Sql, Wordpress, Shopify, Bootstrap, SEO-SEM, UI-UX, Facebook ADS, Tailwind, Vite **
 
 - 📫 How to reach me **frank.tuberquiarojas@gmail.com**
 
