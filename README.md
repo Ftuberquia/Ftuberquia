@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on freelance development [Page Aquinoticias](https://aquinoticias-page.netlify.app)
 
-- 🌱 I’m currently learning **Javascript, Python, MongoDb, SQL, TypeScript**
+- 🌱 I’m currently learning ** Python, MongoDb, SQL, TypeScript**
 
 - 🔭 I’m currently working on freelance development [Dlca Technology](https://github.com/Ftuberquia/PF-DLCA-technology)
 
 - 👨‍💻 All of my projects are available at [https://fatubesolutions.netlify.app/](https://fatubesolutions.netlify.app/)
 
-- 💬 Ask me about **React, Redux, React.Native, Express, Node, Sequelize, Html, Css, Sql, Github, Wordpress, Shopify, Bootstrap, SEO-SEM, UI-UX, Facebook ADS, Tailwind, Vite,  **
+- 💬 Ask me about **Javascript, React, Redux, React.Native, Express, Node, Sequelize, Html, Css, Sql, Github, Wordpress, Shopify, Bootstrap, SEO-SEM, UI-UX, Facebook ADS, Tailwind, Vite, Estructura de Software **
 
 - 📫 How to reach me **frank.tuberquiarojas@gmail.com**
 
