@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on freelance development [Page Aquinoticias](https://aquinoticias-page.netlify.app)
 
-- 🌱 I’m currently learning ** Python, MongoDb, SQL, Power App, Power Automatic, Adobe **
+- 🌱 I’m currently learning ** Python, MongoDb, SQL, Power App, Power Automatic, Adobe, Despliegue **
 
 - 🔭 I’m currently working on freelance development [Dlca Technology](https://github.com/Ftuberquia/PF-DLCA-technology)
 
