@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on freelance development [Page Aquinoticias](https://aquinoticias-page.netlify.app)
 
-- 🌱 I’m currently learning ** Python, MongoDb, SQL, Power App, Power Automatic, Adobe, Docker and Maquinas virtuales **
+- 🌱 I’m currently learning ** Python, Power App, Power Automatic, Adobe, Docker and Maquinas virtuales **
 
 - 🔭 I’m currently working on freelance development [Dlca Technology](https://github.com/Ftuberquia/PF-DLCA-technology)
 
 - 👨‍💻 All of my projects are available at [https://fatubesolutions.netlify.app/](https://fatubesolutions.netlify.app/)
 
-- 💬 Ask me about **Javascript, React, Redux, React.Native, Express, Node, Sequelize, Html, Css, Sql, Github, Wordpress, Bootstrap, SEO-SEM, UI-UX, Facebook ADS, Sass, Tailwind, Vite, Sass, Estructura de Software, Modelo Scrum **
+- 💬 Ask me about **Javascript, React, Redux, React.Native, Express, Node, Sequelize, Html, Css, Sql, Github, MongoDb, SQL, Wordpress, Bootstrap, SEO-SEM, UI-UX, Facebook ADS, Sass, Tailwind, Vite, Sass, Estructura de Software, Modelo Scrum **
 
 - 📫 How to reach me **frank.tuberquiarojas@gmail.com**
 
