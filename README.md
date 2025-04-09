@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on freelance development [Page Aquinoticias](https://aquinoticias-page.netlify.app)
 
-- 🌱 I’m currently learning ** Python, Power App, Power Automatic, Adobe, Docker and Maquinas virtuales, Prompt IA**
+- 🌱 I’m currently learning ** Python, Typesript, Power App, Power Automatic, Adobe, Docker and Maquinas virtuales, Prompt IA**
 
 - 🔭 I’m currently working on freelance development [Dlca Technology](https://github.com/Ftuberquia/PF-DLCA-technology)
 
